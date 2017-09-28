@@ -28,10 +28,6 @@ module.exports = function(grunt) {
 		* https://www.npmjs.com/package/grunt-contrib-watch
 		*/
 		watch: {
-
-			
-			options: { livereload: true },
-			
   			
   			sass: {
 
